@@ -17,7 +17,7 @@
  .displayNone {
    display: none !important;
  }
-
+ 
  .displayBlock {
    display: block !important;
  }
@@ -57,6 +57,20 @@
 #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
   outline: none;
   background-color: transparent;
+}
+
+
+/*
+  Background Form
+*/
+
+.bg-form {
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 80px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
 }
 
 @media (min-width: 992px) {
