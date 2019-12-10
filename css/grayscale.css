@@ -3,7 +3,7 @@
  */
 
  .background_exemple {
-   background: #849f32;
+   background: #058f3b;
  }
 
  .colorWhite {
@@ -34,8 +34,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #058f3b;
+  border: 1px solid #058f3b;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -109,15 +109,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #849f32;
+    color: #058f3b;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #849f32;
+    color: #058f3b;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #849f32;
+    color: #058f3b;
     outline: none;
-    border-bottom: 0.25rem solid #849f32;
+    border-bottom: 0.25rem solid #058f3b;
   }
 }
 
@@ -139,10 +139,6 @@
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
-  /* background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0)); 
-  background: -webkit-linear-gradient(#acd6b6,#f8f9fa);
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;*/
   color: white;
 }
 
@@ -186,21 +182,21 @@
 }
 
 .btn-primary {
-  background-color: #87a344
+  background-color: #058f3b
 }
 
 .btn-primary:hover {
   background-color: white;
-  color: #87a344
+  color: #058f3b
 }
 
 .btn-primary:focus {
-  background-color: #849f32;
+  background-color: #058f3b;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #849f32 !important;
+  background-color: #058f3b !important;
 }
 
 .about-section {
@@ -223,7 +219,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #849f32;
+    border-left: 0.5rem solid #058f3b;
   }
 }
 
@@ -237,7 +233,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #849f32;
+    border-color: #058f3b;
     border-width: .25rem;
     width: 30%;
   }
@@ -269,7 +265,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #849f32;
+  border-bottom: 0.25rem solid #058f3b;
 }
 
 .contact-section .card h4 {
@@ -280,7 +276,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #849f32;
+  border-color: #058f3b;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -313,7 +309,7 @@ body {
 }
 
 a {
-  color: #849f32;
+  color: #058f3b;
 }
 
 a:focus, a:hover {
@@ -326,11 +322,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #849f32 !important;
+  background-color: #058f3b !important;
 }
 
 .text-primary {
-  color: #849f32 !important;
+  color: #058f3b !important;
 }
 
 footer {
